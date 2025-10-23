@@ -2,7 +2,6 @@
 
 /* ======== ESTILOS GERAIS ======== */
 :root {
-
     --federal-blue: #2e1863ff;
     --tekhelet: #582f82ff;
     --rust: #b84f26ff;
@@ -71,6 +70,54 @@ header {
     color: white;
     text-align: center;
     padding: 30px 10% 10% 10%;
+}
+
+body {
+
+    background: linear-gradient(115deg, #2e0a47, #56187f, #a24add);
+    font-family: Bebas Neue, sans-serif;
+    color: white;
+}
+
+h2 {
+    font-size: medium;
+}
+
+header {
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    margin: 15px;
+    text-align: justify;
+}
+
+header>h1 {
+    text-align: center;
+    padding: 1rem;
+}
+
+header>h2 {
+    font-size: 13px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.desafioSection {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.desafioImages {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -165,7 +212,6 @@ header>a {
     transition: 0.5s;
     background-size: 200% auto;
     margin-bottom: 25px;
-
 }
 
 header a:hover {
