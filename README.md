@@ -6,6 +6,9 @@ Esta página web apresenta o projeto de melhoria desenvolvido pelo **Grupo Evolu
 
 O projeto aborda um problema de falta de padronização, onde os grampos, após o uso, eram deixados em locais inadequados, gerando desorganização, riscos de acidentes e perda de tempo. A solução implementada envolveu a criação de um sistema de armazenamento e transporte eficiente, resultando em ganhos significativos de produtividade e segurança.
 
+# Screenshot mobile:
+![Screenshot mobile] (./src/images/MobileScreenshot.png)
+
 ## Tecnologias Utilizadas
 
 A página foi desenvolvida utilizando as seguintes tecnologias:
