@@ -113,6 +113,10 @@ video {
     max-width: 700px;
 }
 
+header figcaption{
+    color: #000000;
+}
+
 .EstadoAtual {
     flex-direction: column;
 }
